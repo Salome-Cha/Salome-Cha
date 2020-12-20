@@ -1,8 +1,8 @@
 
 ![Banner-Github](https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png)
 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am 
-![1](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/name.gif)
+ <img src="https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png" width="29px">,I am 
+![1](https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png)
 
 
 - 🔭 I’m currently working on several projects (Javascript, React, Node.js)
