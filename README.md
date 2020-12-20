@@ -1,8 +1,6 @@
 
 ![Banner-Github](https://github.com/Salome-Cha/Salome-Cha/blob/main/Banner-Github.png)
 
- <img src="https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png" width="29px">,I am 
-![1](https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png)
 
 
 - 🔭 I’m currently working on several projects (Javascript, React, Node.js)
