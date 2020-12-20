@@ -1,5 +1,5 @@
 
-![Banner-Github](https://github.com/Salome-Cha/Salome-Cha/blob/master/Banner-Github.jpg)
+![Banner-Github](https://github.com/Salome-Cha/Salome-Cha/blob/master/Banner-Github.png)
 
 
 - 🔭 I’m currently working on several projects (Javascript, React, Node.js)
