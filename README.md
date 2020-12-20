@@ -1,5 +1,5 @@
 
-![Banner-Github](https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png)
+![Banner-Github](https://github.com/Salome-Cha/Salome-Cha/blob/main/Assets/Banner-Github.png)
 
  <img src="https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png" width="29px">,I am 
 ![1](https://github.com/Salome-Cha/Salome-Cha/blob/master/Assets/Banner-Github.png)
