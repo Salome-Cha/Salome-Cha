@@ -2,6 +2,7 @@
 
 <!--
 **Salome-Cha/Salome-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/Salome-Cha/Salome-Cha/blob/master/Banner-Github.jpg)
 
 
 - 🔭 I’m currently working on some project in Javascript, React, Node.js
